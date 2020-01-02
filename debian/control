@@ -5,8 +5,10 @@ Maintainer: Lance Linder <llinder@gmail.com>
 Homepage: https://github.com/hashicorp/consul-template
 Vcs-Git: https://github.com/hashicorp/consul-template.git
 Vcs-Browser: https://github.com/hashicorp/consul-template
-Standards-Version: 3.9.5
-Build-Depends: debhelper (>= 9), golang-go (>= 2:1.2), git
+XS-Go-Import-Path: 
+ github.com/hashicorp/consul-template,
+Standards-Version: 4.4.0
+Build-Depends: debhelper (>= 9), golang-go (>= 2:1.2), git, dh-golang
 
 Package: consul-template
 Architecture: any

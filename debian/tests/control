@@ -1,0 +1,2 @@
+Test-Command: consul-template --version
+Depends: consul-template

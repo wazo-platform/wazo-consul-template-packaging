@@ -1,4 +1,4 @@
-asterisk (0.23.0-1~wazo1) wazo-dev-buster; urgency=medium
+consul-template (0.23.0-1~wazo1) wazo-dev-buster; urgency=medium
 
   * upgrade to 0.23.0
 
